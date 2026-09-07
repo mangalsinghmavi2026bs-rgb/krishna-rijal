@@ -1,0 +1,6 @@
+{
+  "name": "School Accounting Software (विद्यालय लेखा)",
+  "description": "School accounting software for managing student fees, staff payroll, departmental budgets, and automated financial reporting in Nepali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
